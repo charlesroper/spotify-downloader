@@ -45,7 +45,9 @@ spotDL is being redesigned! This means we are currently not accepting new featur
 
 ### Installing FFmpeg
 
-- [Windows Tutorial](https://windowsloop.com/install-ffmpeg-windows-10/)
+- [Windows manual install](https://windowsloop.com/install-ffmpeg-windows-10/)
+- Windows Scoop - `scoop install ffmpeg`
+- Windows Chocolatey - `choco install ffmpeg`
 - OSX - `brew install ffmpeg`
 - Linux - `sudo snap install ffmpeg`
 
